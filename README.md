@@ -4,7 +4,7 @@ A aplicação foi feita para melhor entendimento do drag n' drop utilizando a bi
 
 >Preview
 
-![preview](https://github.com/Luuck4s/Clone-Pipefy/blob/master/.github/preview,png?raw=true)
+![preview](https://github.com/Luuck4s/Clone-Pipefy/blob/master/.github/preview.png?raw=true)
 
 
 # Instruções para utilização  :hammer:
